@@ -130,3 +130,4 @@ dmypy.json
 
 
 data_cache/
+output.csv
